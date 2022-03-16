@@ -1,4 +1,4 @@
-# w207_final_project: Movie Recommendations
+# Movie Recommendations
 
 ## Overview
 
