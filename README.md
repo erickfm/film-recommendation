@@ -1,6 +1,6 @@
 # Movie Recommendations
 
-Public copy of Movie Recommendations project work done by GitHub users erickfm, codebeard1, and chima1218
+Public copy of Movie Recommendations project work done by GitHub users: erickfm, codebeard1, and chima1218
 
 ## Overview
 
